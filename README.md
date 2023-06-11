@@ -46,3 +46,7 @@
 * All tests create their own data
 * Clearing data after test not implemented
 
+# Challenges Resolved
+* Integration of Spring-Boot with DynamoDB
+* Ensuring the API endpoints are testable and satisfy the requirements
+* Assumptions made for details of the endpoint functionalities like the token format, user details.
